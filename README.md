@@ -1,4 +1,6 @@
 # Windows-AD-Configuration-Utilization
+Microsoft Acitive Directory is a very powerful tool that any IT administrator can utilize, not only to leverage their responsibilities and hone new skills, but also add efficiency to the enterprise that they work for. Many may think that Microsoft AD is a thing of the past and that Azure infrastructure is the future. However, being able to navigate Active Directory efficiently can be a skill that is indespensible even to a cloud provider. Much of the cloud infrustructure raved about today has a basis that points back to the way AD was and still is utilized, simply because it is a system that just works. Therefore, I have included a project on being able to deploy and navigate Microsoft AD in a sandbox environment. So now any tech praticioner that wants to hone their skills for IT or cloud management has an idea on what it takes and where to start.
+
 I began with finding an ISO file of Windows Server 2022 online. Once found and downloaded onto my PC, I then spun up this file in VirtualBox. As a disclaimer, anyone wanting to do this will need to input some information in order to have access to a free trial of this software. It is nothing too invasive or extensive, just things such as your name, email, and phone number.
 
 ![image](https://github.com/user-attachments/assets/f5b4e7b2-d83f-43b6-b0a7-ea9853c7b382)
